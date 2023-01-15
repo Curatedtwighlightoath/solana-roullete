@@ -1,17 +1,10 @@
 .how-top {
-    margin-top: 90px;
+   padding-top: 150px;
     background-color: #013A6B;
     background-image: -webkit-linear-gradient(-45deg, #013A6B 50%, #004E95 50%);
     width: 100%;
     color: rgb(255, 255, 255);
     font-size: 25px;
-    padding-bottom: 600px;
-}
-
-.how-info {
-    padding-top: 100px;
-}
-
-.how-b-try {
-    margin-top: 25px;
-}
+    padding-left: 150px;
+    padding-bottom: 800px;
+}   
