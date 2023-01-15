@@ -4,8 +4,20 @@
     left: 0;
     right: 0 ;
     display: grid;
-    align-items: center;
-    background-color: aqua;
-    width: 100px;
+    background-color: rgb(35, 102, 196);
+    width: 200px;
     height: 100%;
+    padding-top: 125px;
+    justify-content: center;
+}
+
+.false {
+    background-color: #324399;
+    color: beige;
+    font-size: 25px;
+
+}
+
+.but-left {
+    justify-content: center;
 }

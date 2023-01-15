@@ -12,12 +12,7 @@
     right: 0;
 } 
 
-.but-left {
-    display: flex;
-    
-}
-
-.but-nav-left {
-    justify-content: space-between;
+.button {
+    background-color: black;
 }
 
