@@ -1,7 +1,4 @@
 import "./Howto.css";
-import { FaTwitter } from "react-icons/fa";
-import { FaDiscord } from "react-icons/fa";
-import Magiceden from "../assets/magiceden.png"
 
 function Signup () {
     return (
@@ -14,7 +11,12 @@ function Signup () {
         <p>4. Click approve and wait for coin to spin</p>
         <p>5. Congrats, you’re now a degenerate.</p>
         </div>
+
     </div>
+    
+    
+
+
     )
 
 }
