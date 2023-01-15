@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    text-decoration: none;
+
+}
+
+.App {
+   text-align: center; 
+
+}
+
+.button{
+    padding: 0.5rem 1rem;
+    white-space: nowrap;
+    border-radius: 0.3rem;
+    font-size: 25px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out ;
+}
+
+.button:hover{
+    background-color: #3810bb;
+    color: #fff;
+
+}
+
+.wallet-adapter-button-trigger {
+    background-color: #1d1d6f;
+}
