@@ -10,9 +10,6 @@
     top:0;
     left: 0;
     right: 0;
+    padding-right: 25px;
 } 
-
-.button {
-    background-color: black;
-}
 

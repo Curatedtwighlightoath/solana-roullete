@@ -11,23 +11,23 @@ function Sidebar() {
             <button className="false">Home</button>
         </a>
 
-        <a href="/howtoflip" rel="noreferrer">
+        <a href="/" rel="noreferrer">
             <button className="false">How To Flip</button>
         </a>
 
-        <a href="/leaderboard" rel="noreferrer">
+        <a href="/" rel="noreferrer">
             <button className="false">LeaderBoard</button>
         </a>
 
-        <a href="/register" rel="noreferrer">
+        <a href="/" rel="noreferrer">
             <button className="false">Register / Login </button>
         </a>
 
-        <a href="/userPost" rel="noreferrer">
+        <a href="/" rel="noreferrer">
             <button className="false">Talk</button>
         </a>
 
-        <a href="/Rock" rel="noreferrer">
+        <a href="/" rel="noreferrer">
         <button className="false">Rock-Paper-Scissors</button>
         </a>
         </div>
