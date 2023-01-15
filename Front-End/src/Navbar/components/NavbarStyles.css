@@ -1,7 +1,7 @@
 .NavbarItems{
     background-color: #324399;
     display: flex;
-    justify-content: space-between;
+    justify-content: end;
     align-items: center;
     width: 100%;
     height: 100px;
@@ -12,35 +12,9 @@
     right: 0;
 } 
 
-
-.magic-pic {
-    width: 35px;
-}
-
-
 .but-left {
     display: flex;
     
-}
-
-
-button{
-    padding: 0.5rem 1rem;
-    white-space: nowrap;
-    border-radius: 12rem;
-    font-size: 20px;
-    font-weight: 600;
-    cursor: pointer;
-    transition: all 0.2s ease-in-out ;
-    margin-right: 5px;
-    color: #fff;
-    background-color: #1d1d6f;
-}
-
-button:hover{
-    background-color: #1579d0;
-    color: #fff;
-
 }
 
 .but-nav-left {

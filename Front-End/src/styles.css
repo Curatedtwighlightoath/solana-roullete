@@ -8,11 +8,15 @@
 
 .button{
     white-space: nowrap;
-    border-radius: 0.3rem;
     font-size: 25px;
     font-weight: 600;
     cursor: pointer;
     transition: all 0.2s ease-in-out ;
+    padding: 0.5rem 1rem;
+    border-radius: 12rem;
+    cursor: pointer;
+    color: #fff;
+    background-color: #1d1d6f;
 }
 
 .button:hover{

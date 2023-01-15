@@ -23,14 +23,6 @@ function App() {
     return (
 
         <nav className="NavbarItems">
-            <div className="but-nav-left">
-            <div>
-             <p>hello</p>
-            </div>
-            
-            <div className="but-left">
-
-               
             <ConnectionProvider endpoint={endpoint}>
                 <WalletProvider wallets={wallets} autoConnect>
                     <WalletModalProvider>
@@ -38,10 +30,6 @@ function App() {
                     </WalletModalProvider>
                 </WalletProvider>
             </ConnectionProvider>
-
-        </div>
-            
-            </div>
         </nav>
     )
 }
