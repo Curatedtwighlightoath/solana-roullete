@@ -8,28 +8,25 @@ function Sidebar() {
         <div className="but-left">
 
         <a href="/" rel="noreferrer">
-            <button className="false">Home</button>
+            <button className="false">Infinite Room USDC</button>
         </a>
 
         <a href="/" rel="noreferrer">
-            <button className="false">How To Flip</button>
+            <button className="false">Infinite Room SOL</button>
         </a>
 
         <a href="/" rel="noreferrer">
-            <button className="false">LeaderBoard</button>
+            <button className="false">Whale Room</button>
         </a>
 
         <a href="/" rel="noreferrer">
-            <button className="false">Register / Login </button>
+            <button className="false">Shrimp Room</button>
         </a>
 
         <a href="/" rel="noreferrer">
-            <button className="false">Talk</button>
+            <button className="false">24 Hour Lotto</button>
         </a>
 
-        <a href="/" rel="noreferrer">
-        <button className="false">Rock-Paper-Scissors</button>
-        </a>
         </div>
         </div>
         )
