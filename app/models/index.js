@@ -17,6 +17,6 @@ const db = {}
 db.Sequelize = Sequelize
 db.sequelize = sequelize
 
-db.entries = require("./entries.modal")(sequelize, Sequelize);
+db.wallets = require("./wallets.modal")(sequelize, Sequelize);
 
 module.exports = db;

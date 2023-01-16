@@ -7,7 +7,7 @@ function Signup () {
     const [listofPosts, setlistofPosts] = useState([]);
 
     useEffect(() => {
-        axios.get("http://localhost:3001/posts").then((response) => {
+        axios.post("http://localhost:3001/test").then((response) => {
             setlistofPosts(response.data);
         });
     }, []);
