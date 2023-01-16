@@ -21,7 +21,7 @@ function Signup () {
         <p>2. Pick either heads or tails.</p>
         <p>3. Select your desired flip amount.</p>
         <p>4. Click approve and wait for coin to spin</p>
-        <p>5. Congrats, you’re now a degenerate.</p>
+        <p>5. Congrats, you're now a degenerate.</p>
 
         {listofPosts.map((value, key) => {
             return (
